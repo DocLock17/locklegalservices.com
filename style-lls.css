@@ -13,7 +13,7 @@ body {
     top: 0;
     width: 100%;
     border-bottom: 1mm solid #020202;
-    border-top: 1mm solid #404040;
+    border-top: 1mm solid #020202;
     height: 120px;
     position:fixed;
     z-index: 2;
