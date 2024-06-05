@@ -1,7 +1,9 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #fefee9;
+    background-color: #ffffff;
+    /* background-color: #fefee9; */
+    /* background-color: #e3e387; */
   }
 
   .banner img{
@@ -12,8 +14,8 @@ body {
     background-color: #34455c;
     top: 0;
     width: 100%;
-    border-bottom: 1mm solid #020202;
-    border-top: 1mm solid #020202;
+    border-bottom: 1mm solid #e3e3a7;
+    border-top: 1mm solid #e3e3a7;
     height: 120px;
     position:fixed;
     z-index: 2;
@@ -22,7 +24,7 @@ body {
   .title {
     font-family: 'Brush Script MT', cursive;
     #font-family: 'Bebas Neue', sans-serif;
-    color: #020202;
+    color: #e3e3a7;
     #text-transform: uppercase;
     text-align: center;
     font-size: 50px; 
@@ -36,31 +38,34 @@ body {
     height: 50px;
     position:fixed;
     padding-top:124px;
-    border-bottom: 1mm solid #020202;
+    border-bottom: 1mm solid #e3e3a7;
     z-index: 1;
   }
   .topnav a {
     float: left;
-    color: #020202;
+    color: #e3e3a7;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 20px;
   }
   .topnav a:hover {
-    background-color: #505050;
-    color: #000000;
+    /* background-color: #505050; */
+    background-color:#dddda7;
+    /* color: #34455c; */
+    color: #04155c;
   }
   .topnav a.split:hover {
-    background-color: #505050;
-    color: #000000;
+    /* background-color: #505050; */
+    background-color:#dddda7;
+    /* color: #34455c; */
+    color: #04155c;
   }
   /* Create a right-aligned (split) link inside the navigation bar */
   .topnav a.split {
     float: right;
     background-color: #34455c;
-    color: #020202;
-    
+    color: #e3e3a7;
   }
   
   .maintextbody {
@@ -85,20 +90,25 @@ body {
     bottom: 0;
     width: 100%;
     background-color: #34455c;
-    color: #404040;
+    color: #e3e3a7;
+    /* color: #d2d2a2; */
     text-align: center;
-    border-top: 1mm solid #404040;
+    border-top: 1mm solid #e3e3a7;
     padding: 13px;
     z-index: 200;
  }
   .footer a {
-    color: #020202;
+    color: #e3e3a7;
+    /* color: #d2d2a2; */
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 14px;
  }
  .footer a:hover {
-    background-color: #505050;
-    color: #000000;
+    /* background-color:#f1f1a8; */
+    /* background-color:#e3e387; */
+    background-color:#dddda7;
+    /* color: #34455c; */
+    color: #04155c;
  }
