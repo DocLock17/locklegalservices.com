@@ -12,8 +12,8 @@ body {
     background-color: #303030;
     top: 0;
     width: 100%;
-    border-bottom: 1mm solid #458686;
-    border-top: 1mm solid #458686;
+    border-bottom: 1mm solid #34455c;
+    border-top: 1mm solid #34455c;
     height: 120px;
     position:fixed;
     z-index: 2;
@@ -36,7 +36,7 @@ body {
     height: 50px;
     position:fixed;
     padding-top:124px;
-    border-bottom: 1mm solid #458686;
+    border-bottom: 1mm solid #34455c;
     z-index: 1;
   }
   .topnav a {
@@ -86,7 +86,7 @@ body {
     background-color: #303030;
     color: #559696;
     text-align: center;
-    border-top: 1mm solid #458686;
+    border-top: 1mm solid #34455c;
     padding: 13px;
     z-index: 200;
  }
