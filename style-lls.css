@@ -11,12 +11,12 @@ body {
   }
   .banner {
     display:inline-block;
-    background-color: #ffffff;
+    background-color: #33455c;
     top: 0;
     width: 100%;
     border-bottom: 1mm solid #e3e3a7;
     border-top: 1mm solid #e3e3a7;
-    height: 140px;
+    height: 120px;
     position:fixed;
     z-index: 2;
 
