@@ -42,7 +42,7 @@ body {
     z-index: 1;
   }
   .topnav a {
-    float: left;
+/*     float: left; */
 /*     float: center; */
     color: #e3e3a7;
     text-align: center;
