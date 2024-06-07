@@ -72,6 +72,8 @@ body {
 .dropdown {
   clear:left;
   overflow: hidden;
+  display: inline-flex;
+  flex-direction: column;
 }
 .dropdown .dropbtn {
   font-size: 20px;  
@@ -85,7 +87,7 @@ body {
 }
 .dropdown-content {
   display: none;
-  position:absolute;
+  position: relative;
   background-color: #34455c;
   min-width: 206px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
