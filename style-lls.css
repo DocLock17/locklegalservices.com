@@ -116,6 +116,7 @@ body {
   position:relative;
   padding-top:170px;
   padding-bottom:10px;
+  text-align: center;
 }
 
 .maintextbody2 {
@@ -126,8 +127,6 @@ body {
   width: 35%;
   margin: auto;
 }
-
-
 
 
 .footer {
